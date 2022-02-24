@@ -1,0 +1,53 @@
+{
+    "code": 0,
+    "message": "OK",
+    "data": [
+        {
+            "goodsId": 0,
+            "spanSize": 4,
+            "banners": [
+                "https://fanyi.baidu.com/",
+                "https://fanyi.baidu.com/",
+                "https://fanyi.baidu.com/"
+            ]
+        },
+        {
+            "goodsId": 1,
+            "spanSize": 4,
+            "text": "明星单品",
+            "imageUrl": "https://tse2-mm.cn.bing.net/th/id/OIP-C.u3LcOEh-liSJ0yYSqZVKWQHaHa?w=171&h=180&c=7&r=0&o=5&pid=1.7"
+        },
+        {
+            "goodsId": 2,
+            "spanSize": 2,
+            "text": "小米5c 64GB 移动版",
+            "imageUrl": "https://tse3-mm.cn.bing.net/th/id/OIP-C.CF8VzWdBfdNLrQKJl4KbiAHaK-?w=115&h=180&c=7&r=0&o=5&pid=1.7"
+        },
+        {
+            "goodsId": 3,
+            "spanSize": 2,
+            "text": "米家智能摄像机",
+            "imageUrl": "https://tse2-mm.cn.bing.net/th/id/OIP-C.957-Y1jaQPDtw9JByO-t2gHaFL?w=233&h=180&c=7&r=0&o=5&pid=1.7"
+        },
+        {
+            "goodsId": 4,
+            "spanSize": 2,
+            "imageUrl": "https://tse1-mm.cn.bing.net/th/id/OIP-C.494H07Q5qV9U_gWQTe5xRwHaEp?w=278&h=180&c=7&r=0&o=5&pid=1.7"
+        },
+        {
+            "goodsId": 5,
+            "spanSize": 2,
+            "imageUrl": "https://tse2-mm.cn.bing.net/th/id/OIP-C.H3-DwDQdW0_jPWjNZSw17AHaEG?w=314&h=180&c=7&r=0&o=5&pid=1.7"
+        },
+        {
+            "goodsId": 6,
+            "spanSize": 2,
+            "imageUrl": "https://tse4-mm.cn.bing.net/th/id/OIP-C.XpDXl0LM3-3JMaCA0emDjgHaEz?w=250&h=180&c=7&r=0&o=5&pid=1.7"
+        },
+        {
+            "goodsId": 7,
+            "spanSize": 4,
+            "text": "智能生活，从这里开始"
+        }
+    ]
+}
